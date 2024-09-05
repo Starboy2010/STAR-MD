@@ -9,7 +9,7 @@
   <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04">
     <img alt="wasi" height="300" src="https://telegra.ph/file/3a21bf26bedef7966fd74.jpg">
-    <h1 align="center">PREXZY-BUG-BOT</h1>
+    <h1 align="center">STAR-BUG-BOT</h1>
   </a>
 </p>
 <p align="center">
@@ -20,10 +20,10 @@
 
 STAR MD BUG BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
-If you clone my repo or use as base bot, dont forget to give credits. PREXZYVILLA
+If you clone my repo or use as base bot, dont forget to give credits. PREXZYVILLA AND STARTECH
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/Prexzybooster/PREXZY-BUG-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/Prexzybooster/STAR-BUG-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
    
 
 
@@ -116,7 +116,7 @@ Contributions to PREXZY BUG BOT are welcome! If you have ideas for new features,
 
 ## License
 
-The WhatsApp Bot PREXZY BUG BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot STAR MD BUG BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and make your WhatsApp experience more interesting!
 
