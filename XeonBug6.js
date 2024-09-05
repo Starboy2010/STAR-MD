@@ -2273,7 +2273,7 @@ break
             case 'alive':
             case '?':
             case 'allmenu':
-                let xeonmenuoh = `╭═══ PREXZY-𝙱𝚄𝙶-𝙱𝙾𝚃 ═══⊷
+                let xeonmenuoh = `╭═══ STAR-𝙱𝚄𝙶-𝙱𝙾𝚃 ═══⊷
 ┃❃╭──────────────
 ┃❃│ Prefix : [ ]
 ┃❃│ User :  ${pushname}
