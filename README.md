@@ -40,10 +40,10 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
 ## Watch Tutorial videos.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prexzyvilla)
 
-**PLS FOLLOW MY WHATSAPP CHANNEL**
+## PLS FOLLOW MY WHATSAPP CHANNEL.
 *https://whatsapp.com/channel/0029VafjXkNKgsNotjWfOW0R
 
-**CONTACT DEVELOPERS ON WHATSAPP**
+## CONTACT DEVELOPERS ON WHATSAPP.
 *Wa.me/+2349017800032
 *Wa.me/+2348033956837
 
