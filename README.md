@@ -41,11 +41,11 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prexzyvilla)
 
 **PLS FOLLOW MY WHATSAPP CHANNEL**
-https://whatsapp.com/channel/0029VafjXkNKgsNotjWfOW0R
+*https://whatsapp.com/channel/0029VafjXkNKgsNotjWfOW0R
 
 **CONTACT DEVELOPERS ON WHATSAPP**
-WA.ME/+2349017800032
-WA.ME/+2348033956837
+*Wa.me/+2349017800032
+*Wa.me/+2348033956837
 
 ### DEPLOYMENT ON TERMUX
 
