@@ -21,7 +21,8 @@
 STAR MD BUG BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
 If you clone my repo or use as base bot, dont forget to give credits. PREXZYVILLA AND STARTECH
-### 1. FORK THIS REPO
+### 1. STAR AND FORK THIS REPO
+* Don't forget to star the repo before you fork
 
 <a href='https://github.com/Starboy2010/STAR-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
    
