@@ -23,7 +23,7 @@ STAR MD BUG BOT is a bug bot designed to enhance the functionality and preferenc
 If you clone my repo or use as base bot, dont forget to give credits. PREXZYVILLA AND STARTECH
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/STARTECH/STAR-BUG-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/Starboy2010/STAR-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
    
 
 
