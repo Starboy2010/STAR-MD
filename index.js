@@ -2,8 +2,8 @@
 //YouTube: @prexzyvilla
 //Instagram: prexzy.ay
 //Telegram: t.me/prexzyvilla_tech
-//GitHub: @Prexzybooster
-//WhatsApp: +2349159895444
+//GitHub: @PStarboy2010
+//WhatsApp: +2349017800032
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Prexzyvilla
 
 const {
