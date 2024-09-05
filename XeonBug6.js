@@ -2401,7 +2401,7 @@ break
 ┃ 🩵 sᴏᴜɴᴅ1 - sᴏᴜɴᴅ161
 ╰═════════════════⊷
 
-> Precious Ayomide ©`
+> JOSEPH SAMUEL ©`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
