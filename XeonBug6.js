@@ -914,7 +914,7 @@ senddocu(buffer)
                                 showAdAttribution: true,
                                 title: 'Broadcast By Owner',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/c02035e9c30f7b6da1b29.jpg',
+                                thumbnailUrl: 'https://telegra.ph/file/d56ba5110914553834d99.jpg',
                                 sourceUrl: global.link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -1244,7 +1244,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+                            thumbnailUrl: 'https://telegra.ph/file/d56ba5110914553834d99.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1264,7 +1264,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `FORGET DONATE`,
-                            thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+                            thumbnailUrl: 'https://telegra.ph/file/d56ba5110914553834d99.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1284,7 +1284,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `SCRIPT OF ${botname} is on YouTube @prexzyvilla`,
-                            thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+                            thumbnailUrl: 'https://telegra.ph/file/d56ba5110914553834d99.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -2409,7 +2409,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+                                thumbnailUrl: 'https://telegra.ph/file/d56ba5110914553834d99.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2427,7 +2427,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/d56ba5110914553834d99.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
