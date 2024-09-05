@@ -1,4 +1,4 @@
-<h1 align="center"> PREXZY BUG BOT </h1>
+<h1 align="center"> STAR MD  BUG BOT </h1>
 <p align="center">  
   
 ***
@@ -18,7 +18,7 @@
    
    
 
-PREXZY BUG BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
+STAR MD BUG BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
 If you clone my repo or use as base bot, dont forget to give credits. PREXZYVILLA
 ### 1. FORK THIS REPO
@@ -100,7 +100,7 @@ git clone https://github.com/Prexzybooster/PREXZY-BUG-BOT
  
  npm start
 
-`Please PREXZY BUG BOT is for scammers only. Don't use it to harm innocent people`
+`Please STAR MD BUG BOT is for scammers only. Don't use it to harm innocent people`
 
 
 ## Contributions
@@ -111,7 +111,7 @@ Contributions to PREXZY BUG BOT are welcome! If you have ideas for new features,
 
    **Xeon** who made the base bot
 
-   **PRECIOUS AYOMIDE** For developing it; <br>
+   **PRECIOUS AYOMIDE AND JOSEPH SAMUEL** For developing it; <br>
 
 
 ## License
@@ -123,3 +123,4 @@ Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and
 ## Developers:
 
 -PRECIOUS AYOMIDE
+-JOSEPH SAMUEL
