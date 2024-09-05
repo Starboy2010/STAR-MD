@@ -92,7 +92,7 @@ pkg install imagemagick
 
 termux-setup-storage
 
-git clone https://github.com/STARTECH/STAR-BUG-BOT
+git clone https://github.com/Starboy2010/STAR-MD
 
  cd STAR-BUG-BOT
  
