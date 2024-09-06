@@ -1,10 +1,10 @@
 //base by DGXeon (Xeon Bot Inc.)
-//YouTube: @prexzyvilla
-//Instagram: prexzy.ay
+//YouTube: @TECH LORD
+//Instagram: none
 //Telegram: t.me/prexzyvilla_tech
-//GitHub: @Prexzybooster
-//WhatsApp: +2349159895444
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Prexzyvilla
+//GitHub: @Starboy2010
+//WhatsApp: +2349017800032
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techlord2010?si=dmC_vvUPWujSq8w5
 
 require('./settings')
 const pino = require('pino')
