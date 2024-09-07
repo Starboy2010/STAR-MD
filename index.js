@@ -1,10 +1,10 @@
 //base by DGXeon (Xeon Bot Inc.)
-//YouTube: @prexzyvilla
+//YouTube: @TECH LORD
 //Instagram: prexzy.ay
 //Telegram: t.me/prexzyvilla_tech
 //GitHub: @PStarboy2010
 //WhatsApp: +2349017800032
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Prexzyvilla
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techlord2010?si=wAKIkkMdXp04lhD4
 
 const {
    spawn
