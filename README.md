@@ -39,7 +39,7 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
 
 ## 2. <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy on render-black?style=for-the-badge&logo=render&logoColor=white'/>
 ## Watch Tutorial videos.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prexzyvilla)
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@techlord2010?si=wAKIkkMdXp04lhD4)
 
 ## PLS FOLLOW MY WHATSAPP CHANNEL.
 * https://whatsapp.com/channel/0029VafjXkNKgsNotjWfOW0R
