@@ -1,8 +1,10 @@
 <h1 align="center"> STAR MD  BUG BOT </h1>
 <p align="center">  
-  
+
+
 ***
-  
+  ![IMG-20240907-WA0034](https://github.com/user-attachments/assets/23a1c7c0-5f90-423e-b7a6-7eaf697808fd)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;STAR MD -BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+JOSEPH+SAMUEL;RELEASED+05.08.24" alt="Typing SVG" /></a>
   </p>
 
