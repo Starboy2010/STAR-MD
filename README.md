@@ -15,7 +15,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/STARTECH"><img title="Author" src="https://img.shields.io/badge/STARTECH-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VafjXkNKgsNotjWfOW0R"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+2349017800032"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/STARTECH"><img title="Author" src="https://img.shields.io/badge/Starboy2010-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VafjXkNKgsNotjWfOW0R"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+2349017800032"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
