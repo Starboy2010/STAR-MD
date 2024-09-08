@@ -1222,7 +1222,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${latensi.toFixed(4)} Second`,
-                            thumbnailUrl: 'https://telegra.ph/file/3a21bf26bedef7966fd74.jpg',
+                            thumbnailUrl: 'https://telegra.ph/file/d56ba5110914553834d99.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1298,7 +1298,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'donasi':
                 let textnate = `Hello Brother ${pushname}\n\nNo matter how much you donate is very valuable for us`
                 XeonBotInc.sendMessage(m.chat, {
-                    text: 'Opay: 9159895444 ABIGAIL \n\n' + textnate
+                    text: 'Opay: 9017800032 Opay Blessing Ailende Uduehi \n\n' + textnate
                 }, {
                     quoted: m
                 })
