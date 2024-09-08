@@ -112,6 +112,8 @@ git clone https://github.com/Starboy2010/STAR-MD
 
 `Please STAR MD BUG BOT is for scammers only. Don't use it to harm innocent people`
 
+THIS SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!!
+
 
 ## Contributions
 
